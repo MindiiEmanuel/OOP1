@@ -6,7 +6,8 @@ namespace OOP1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("i World!");
+            Console.WriteLine("HELLO World!");
+            Console.WriteLine("omg");
         }
     }
 }
